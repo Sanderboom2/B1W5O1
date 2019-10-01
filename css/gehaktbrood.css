@@ -5,7 +5,24 @@ h1{
 h2{
 	font-size: 32px;
 }
+
 body{
 	font-family: 'Roboto', sans-serif;
 	margin: 40px;
+}
+
+.ingrediënten{
+	margin: 10px;
+}
+
+.stappen{
+	margin: 20px;
+}
+
+div{
+	margin: 0px auto;
+}
+
+#tip{
+	background-color: #def6ed
 }
