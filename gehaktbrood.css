@@ -8,7 +8,8 @@ h2{
 
 body{
 	font-family: 'Roboto', sans-serif;
-	margin: 40px;
+	margin-right: 20%;
+	margin-left: 20%;
 }
 
 .ingrediënten{
@@ -19,10 +20,11 @@ body{
 	margin: 20px;
 }
 
-div{
-	margin: 0px auto;
-}
 
 #tip{
 	background-color: #def6ed
+
+}
+button{
+
 }
