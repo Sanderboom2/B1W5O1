@@ -12,6 +12,14 @@ body{
 	margin-left: 20%;
 }
 
+button{
+	font-size: 15px;
+	border: none;
+	background-color: gray;
+	width: 100px;
+	height: 50px;
+}
+
 .ingrediënten{
 	margin: 10px;
 }
@@ -23,8 +31,5 @@ body{
 
 #tip{
 	background-color: #def6ed
-
-}
-button{
 
 }
